@@ -1,1 +1,0 @@
-{"parent":null,"pid":15935,"argv":["/usr/local/share/nvm/versions/node/v20.18.1/bin/node","/workspaces/e2e-poc/node_modules/.bin/jest"],"execArgv":[],"cwd":"/workspaces/e2e-poc","time":1742317461160,"ppid":15903,"coverageFilename":"/workspaces/e2e-poc/.nyc_output/e1524109-62e2-4ea6-8210-ab69097191ce.json","externalId":"","uuid":"e1524109-62e2-4ea6-8210-ab69097191ce","files":[]}
